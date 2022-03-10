@@ -41,7 +41,7 @@ Here we are giving war package format
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://192.168.19.177:8081/repository/war-deploy-Snap/</url>
+            <url>http://192.168.19.177:8081/repository/war-deploy-snap/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
