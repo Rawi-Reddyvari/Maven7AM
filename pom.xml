@@ -36,12 +36,12 @@ Here we are giving war package format
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://192.168.19.131:8081/repository/dc-war-release/</url>
+            <url>http://192.168.19.158:8081/repository/Rawi-Job/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://192.168.19.131:8081/repository/dc-war-snap/</url>
+            <url>http://192.168.19.131:8081/repository/Rawi-Job-snap/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
