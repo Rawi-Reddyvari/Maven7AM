@@ -36,12 +36,12 @@ Here we are giving war package format
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://192.168.19.158:8081/repository/parthu/</url>
+            <url>http://192.168.19.130:8081/repository/deploy/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://192.168.19.158:8081/repository/parthu-snap/</url>
+            <url>http://192.168.19.130:8081/repository/deploy2/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
